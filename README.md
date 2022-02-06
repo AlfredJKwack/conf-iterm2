@@ -12,7 +12,7 @@ Alternatively you can put the profile in as a Dynamic Profile. The upside is Dyn
         cd ~/Library/Application\ Support/iTerm2/DynamicProfiles/ && { curl -O https://raw.githubusercontent.com/AlfredJKwack/conf-iterm2/main/iTerm2-Profile.json ; cd -; }
 
 
-Move the plist in this repo to its normal place in your OS, essentially **wiping your own setup**.
+Lastly, you can move the plist in this repo to its normal place in your OS, essentially **wiping your own setup**.
 
         cd ~/Library/Preferences && { curl -O https://raw.githubusercontent.com/AlfredJKwack/conf-iterm2/main/com.googlecode.iterm2.plist ; cd -; }
 
